@@ -9,13 +9,12 @@ En snabbguide för hur man navigerar Profixio, hittar rätt serie och hanterar e
 Gå till startsidan **[profixio.com/sv](https://www.profixio.com/sv/)** och klicka på **"Min Profixio"** i menyn längst upp på sidan.
  
 Där kan du välja mellan att:
- 
 - **Logga in med befintligt konto hos Idrettens ID, Google, Facebook eller Profixio**
 - **Skapa ett nytt Profixio-konto** – om du inte har något konto sedan tidigare.
-Du kan också **välja att inte logga in** och fortsätta som besökare. Det går bra, men innebär vissa begränsningar:
- 
-- ✅ Du kan stjärnmarkera lag för snabb åtkomst
-- ❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
+
+Du kan också **välja att inte logga in** och fortsätta som besökare. Det går bra, men innebär vissa begränsningar: 
+✅ Du kan stjärnmarkera lag för snabb åtkomst
+❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
 
 👉 Slutsats: vill du kunna fylla i och signera matchprotokoll (t.ex. som protokollförare eller domare) **måste** du logga in.
  
