@@ -16,6 +16,7 @@ Du kan också **välja att inte logga in** och fortsätta som besökare. Det gå
  
 - ✅ Du kan stjärnmarkera lag för snabb åtkomst
 - ❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
+
 👉 Slutsats: vill du kunna fylla i och signera matchprotokoll (t.ex. som protokollförare eller domare) **måste** du logga in.
  
 ---
@@ -46,7 +47,7 @@ Vi spelar i tre serier: två i distrikt **Stockholm Basket** och en i **Svea BDF
  
 ## 3. Elektroniskt matchprotokoll
  
-Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) blir menyvalet **Elektroniskt matchprotokoll** synligt i panelen till vänster. Klicka dig vidare till [Elektroniskt matchprotokoll](https://www.profixio.com/app/league/protocols) – där hittar du utbildningsvideorna, funktionen "Skapa träningsmatch" och era favoritlags matchprotokoll. Här är det viktigaste att känna till om det elektroniska matchprotokollet:
+Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) blir menyvalet **Elektroniskt matchprotokoll** synligt i panelen till vänster. Klicka dig vidare till [Elektroniskt matchprotokoll](https://www.profixio.com/app/league/protocols) – där hittar du utbildningsvideorna, funktionen "Skapa träningsmatch" och era favoritlags matchprotokoll:
  
 **Utbildningsvideor**
 - Det finns **två utbildningsvideor** som går igenom hur det elektroniska matchprotokollet fungerar. Titta igenom dessa innan er första match.
