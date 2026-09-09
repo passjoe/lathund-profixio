@@ -1,4 +1,4 @@
-# Lathund – Profixio
+# Lathund – Profixio - Uppsala Central
 
 En snabbguide för hur man navigerar Profixio, hittar rätt serie och hanterar elektroniska matchprotokoll.
 
@@ -45,7 +45,7 @@ Vi spelar i tre serier: två i distrikt **Stockholm Basket** och en i **Svea BDF
 
 ## 3. Elektroniskt matchprotokoll
 
-Efter att man har loggat in i Profixio blir valet **Elektroniskt matchprotokoll** synligt i panelen till vänster på hemsidan [Min Profixio](https://www.profixio.com/app/roles). Här är det viktigaste att känna till om det elektroniskt matchprotokoll:
+Efter att man har loggat in i Profixio blir valet **Elektroniskt matchprotokoll** synligt i panelen till vänster på hemsidan [Min Profixio](https://www.profixio.com/app/roles). Klicka dig vidare till [Elektroniskt matchprotokoll](https://www.profixio.com/app/league/protocols). Här är det viktigaste att känna till om det elektroniskt matchprotokoll:
 
 **Utbildningsvideor**
 - Det finns **två utbildningsvideor** som går igenom hur det elektroniska matchprotokollet fungerar. Titta igenom dessa innan er första match – de finns tillgängliga på Profixios informationssida/hjälpsida.
