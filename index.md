@@ -13,7 +13,9 @@ Där kan du välja mellan att:
 - **Skapa ett nytt Profixio-konto** – om du inte har något konto sedan tidigare.
 
 Du kan också **välja att inte logga in** och fortsätta som besökare. Det går bra, men innebär vissa begränsningar: 
+
 ✅ Du kan stjärnmarkera lag för snabb åtkomst
+
 ❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
 
 👉 Slutsats: vill du kunna fylla i och signera matchprotokoll (t.ex. som protokollförare eller domare) **måste** du logga in.
