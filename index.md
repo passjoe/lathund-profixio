@@ -47,7 +47,7 @@ Vi spelar i tre serier: två i distrikt **Stockholm Basket** och en i **Svea BDF
  
 ## 3. Elektroniskt matchprotokoll
  
-Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) blir menyvalet **Elektroniskt matchprotokoll** synligt i panelen till vänster. Klicka dig vidare till [Elektroniskt matchprotokoll](https://www.profixio.com/app/league/protocols) – där hittar du utbildningsvideorna, funktionen "Skapa träningsmatch" och era favoritlags matchprotokoll:
+Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) blir menyvalet **Elektroniskt matchprotokoll** synligt i panelen till vänster. Klicka dig vidare till [Elektroniskt matchprotokoll](https://www.profixio.com/app/league/protocols) – där hittar du utbildningsvideor, funktionen "Skapa träningsmatch" och era favoritlags matchprotokoll:
  
 **Utbildningsvideor**
 - Det finns **två utbildningsvideor** som går igenom hur det elektroniska matchprotokollet fungerar. Titta igenom dessa innan er första match.
