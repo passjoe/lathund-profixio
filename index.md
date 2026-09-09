@@ -50,10 +50,13 @@ Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) bl
  
 **Utbildningsvideor**
 - Det finns **två utbildningsvideor** som går igenom hur det elektroniska matchprotokollet fungerar. Titta igenom dessa innan er första match.
+
 **Skapa träningsmatch**
-- Vill man testa på det elektroniska matchprotokollet utan att det är en "riktig" tävlingsmatch kan man använda funktionen **"Skapa träningsmatch"**. Perfekt för att öva innan en skarp match.
+- Vill man testa på det elektroniska matchprotokollet utan att det är en "riktig" tävlingsmatch kan man använda funktionen **"Skapa träningsmatch"**.
+
 **Favoritlagets matchprotokoll**
 - Genom att stjärnmarkera era lag som favoritlag får ni snabb åtkomst till just era matchers protokoll, utan att behöva navigera via serien varje gång (se stjärnmarkering i punkt 2).
+
 ---
  
 *Obs: exakta menynamn och knappars placering kan variera något beroende på om du använder mobil eller dator, samt om Profixio uppdaterar sitt gränssnitt. Dubbelkolla gärna mot den faktiska sidan vid behov.*
