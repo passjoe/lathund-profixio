@@ -6,9 +6,7 @@ Profixio är det digitala system som används för att administrera våra basket
  
 ## 1. Startsida → Min Profixio → Logga in
  
-Gå till startsidan **[profixio.com/sv](https://www.profixio.com/sv/)** och klicka på **"Min Profixio"** i menyn längst upp på sidan.
- 
-Där kan du välja mellan att:
+Gå till startsidan **[Min Profixio](https://www.profixio.com/app/login)**. Där kan du välja mellan att:
 - **Logga in med befintligt konto hos Idrettens ID, Google, Facebook eller Profixio**
 - **Skapa ett nytt Profixio-konto** – om du inte har något konto sedan tidigare.
 
@@ -58,5 +56,4 @@ Efter att du loggat in på [Min Profixio](https://www.profixio.com/app/roles) bl
 - Genom att stjärnmarkera era lag som favoritlag får ni snabb åtkomst till just era matchers protokoll, utan att behöva navigera via serien varje gång (se stjärnmarkering i punkt 2).
 
 ---
- 
-*Obs: exakta menynamn och knappars placering kan variera något beroende på om du använder mobil eller dator, samt om Profixio uppdaterar sitt gränssnitt. Dubbelkolla gärna mot den faktiska sidan vid behov.*
+
