@@ -4,7 +4,7 @@ Profixio är det digitala system som används för att administrera våra basket
  
 ---
  
-## 1. Startsida → Min Profixio → Logga in
+## 1. Min Profixio → Logga in
  
 Gå till startsidan **[Min Profixio](https://www.profixio.com/app/login)**. Där kan du välja mellan att:
 - **Logga in med befintligt konto hos Idrettens ID, Google, Facebook eller Profixio**
