@@ -1,6 +1,6 @@
-# Lathund – Profixio (Uppsala Central)
+# Introduktion till Profixio – Uppsala Basket Central 2026/2027
  
-En snabbguide för hur man navigerar Profixio, hittar rätt serie och hanterar elektroniska matchprotokoll.
+Profixio är det digitala system som används för att administrera våra basketmatcher och serier. Där hanteras bland annat matchprotokoll, och man kan även hitta kommande matcher, resultat och annan information om seriespelet. I sekretariatet används Profixio framför allt för att registrera det som händer under matchen, till exempel poäng, fouls och time-outs.
  
 ---
  
@@ -13,10 +13,8 @@ Där kan du välja mellan att:
 - **Skapa ett nytt Profixio-konto** – om du inte har något konto sedan tidigare.
 
 Du kan också **välja att inte logga in** och fortsätta som besökare. Det går bra, men innebär vissa begränsningar: 
-
-✅ Du kan stjärnmarkera lag för snabb åtkomst
-
-❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
+- ✅ Du kan stjärnmarkera lag för snabb åtkomst
+- ❌ Du kan **inte** fylla i och signera ett elektroniskt matchprotokoll – det kräver inloggning, eftersom signeringen är kopplad till din identitet/roll i systemet.
 
 👉 Slutsats: vill du kunna fylla i och signera matchprotokoll (t.ex. som protokollförare eller domare) **måste** du logga in.
  
